@@ -1,0 +1,16 @@
+{
+  "name": "jsonfaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-schema-faker": "^0.3.0",
+    "mongoose": "^4.4.12",
+    "underscore": "^1.8.3"
+  }
+}
